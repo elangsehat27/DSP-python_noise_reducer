@@ -4,8 +4,6 @@
 
 \[!\[Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
-\[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 
 Proyek ini adalah implementasi sistem **Noise Reduction** (Pengurangan Derau) pada file audio menggunakan pendekatan matematis murni: **Spectral Subtraction**. 
@@ -17,6 +15,7 @@ Berbeda dengan menggunakan library instan yang bekerja seperti "kotak hitam", pr
 
 
 Proyek ini juga didokumentasikan dalam format video di YouTube: https://youtu.be/RNhoOheUtnM?si=LOec7DP-ooBjdz\_0
+Proyek ini juga didokumentasikan dalam format Ebook di webiot: (under review)
 
 \---
 
