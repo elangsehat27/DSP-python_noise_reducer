@@ -15,6 +15,7 @@ Berbeda dengan menggunakan library instan yang bekerja seperti "kotak hitam", pr
 
 
 Proyek ini juga didokumentasikan dalam format video di YouTube: https://youtu.be/RNhoOheUtnM?si=LOec7DP-ooBjdz\_0
+
 Proyek ini juga didokumentasikan dalam format Ebook di webiot: (under review)
 
 \---
