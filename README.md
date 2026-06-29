@@ -30,9 +30,9 @@ Proyek ini juga didokumentasikan dalam format Ebook di webiot: https://ebook.web
 
 \- **Auto-Normalization:** Otomatis menyeimbangkan volume audio asli agar suara vokal tidak ikut terhapus.
 
-\- **Smart Noise Profiling:** Mencari nilai \*Median\* secara otomatis dari seluruh durasi audio untuk menangkap "sidik jari" \*noise\*.
+\- **Smart Noise Profiling:** Mencari nilai Median secara otomatis dari seluruh durasi audio untuk menangkap "sidik jari" noise.
 
-\- **Interactive UI:** Dilengkapi dengan pop-up jendela \*File Explorer\* (`tkinter`) untuk memilih file `.wav` dengan mudah.
+\- **Interactive UI:** Dilengkapi dengan pop-up jendela File Explorer (`tkinter`) untuk memilih file `.wav` dengan mudah.
 
 \- **Visual Proof:** Menghasilkan 6 grafik perbandingan visual (Waveform \& FFT Spectrogram) menggunakan `matplotlib` setelah pemrosesan selesai.
 
